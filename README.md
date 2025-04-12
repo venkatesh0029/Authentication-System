@@ -68,4 +68,4 @@ This authentication system provides user registration, login, and session manage
 This project is open-source and free to use under the MIT License.
 
 ## Contact
-For any issues or feature requests, please open an issue on GitHub
+For any issues or feature requests, please open an issue on GitHub.
